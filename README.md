@@ -14,3 +14,6 @@ With a dedication to innovation and a passion for technology, I strive to delive
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akisaby&layout=compact&show_icons=true&hide_border=true&bg_color=0000)](https://github.com/Akisaby/github-readme-stats)
 
 </p>
+
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<br>
